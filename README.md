@@ -1,4 +1,4 @@
-### Telco Customer Churn Prediction
+# Telco Customer Churn Prediction
 A data science project focused on understanding and predicting telecom customer churn.
 This project analyzes customer churn for a telecommunications company using various machine learning models. The goal is to predict whether a customer will churn (leave the service) based on customer data, and to understand key factors influencing churn.
 
