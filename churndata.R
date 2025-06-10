@@ -12,7 +12,7 @@ library(glmnet)
 library(e1071)      # SVM 
 library(caret)
 
-churn_data <- read_csv("/Users/sim/Downloads/WA_Fn-UseC_-Telco-Customer-Churn.csv")
+churn_data <- read_csv("~/Downloads/WA_Fn-UseC_-Telco-Customer-Churn.csv")
 #explorarity data analsysis (eda)
 head(churn_data)
 nrow(churn_data)
