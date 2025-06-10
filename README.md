@@ -2,7 +2,7 @@
 A data science project focused on understanding and predicting telecom customer churn.
 This project analyzes customer churn for a telecommunications company using various machine learning models. The goal is to predict whether a customer will churn (leave the service) based on customer data, and to understand key factors influencing churn.
 
-### Project Overview
+## Project Overview
 Dataset: Customer data including demographics, service details, and billing information.
 Objective: Predict customer churn (Yes or No) using classification models.
 Methods: Exploratory Data Analysis (EDA), feature engineering, and machine learning models including:
@@ -13,18 +13,21 @@ Lasso & Ridge Regression (Regularized Logistic Regression),
 Support Vector Machine (SVM),
 Evaluation: Model performance assessed with confusion matrices, precision, recall, F1-score, accuracy, and ROC-AUC.
 
-### Data Exploration and Visualization
+## Data Exploration and Visualization
 Investigated distributions and relationships between churn and variables such as gender, tenure, contract type, internet service, and payment methods.
 Visualized data using bar plots, boxplots, histograms, and scatter plots to understand trends and feature importance.
 
-### Modeling and Evaluation
+## Modeling and Evaluation
 Trained and tuned models with cross-validation and hyperparameter grid search.
 Evaluated models on test data using accuracy, precision, recall, F1-score, and ROC curves.
 Used Random Forest variable importance and regularization methods for feature selection.
 Compared models and selected best-performing ones for prediction.
 
-### Prediction for New Customers
+## Prediction for New Customers
 Demonstrated how to use trained models to predict churn probability and class for new customer profiles.
+
+
+## Some graphs are attached below from code. 
 
 ![Rplot23](https://github.com/user-attachments/assets/8876defd-ab5e-4806-811d-9dea389bfeef)
 
