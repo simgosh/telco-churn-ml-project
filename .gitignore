@@ -1,20 +1,15 @@
-# R çalışma dosyaları
 .Rhistory
 .RData
 .Rproj.user/
 .Ruserdata
 .Rapp.history
 
-# RStudio dosyaları
 .Rproj.user/
 *.Rproj
 
-# Geçici dosyalar
 *.tmp
 *.swp
 
-# MacOS sistem dosyası
 .DS_Store
 
-# Ortam değişken dosyaları
 .env
